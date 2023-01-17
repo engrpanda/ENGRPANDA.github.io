@@ -17,8 +17,6 @@ I have a Bachelor of Science in Electronics Engineering from Iloilo Science and 
 
 My interests include building electronics projects and DIY stuff, hacking, artificial intelligence, 3D printing, and retropi using Raspberry Pi.
 
-You can check out my work on my GitHub profile: https://github.com/engrpanda
-
 Thank you for visiting my website!
 
 
