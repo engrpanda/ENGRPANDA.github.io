@@ -31,4 +31,3 @@ print("hello world")
 ```
 ## photos
 
-![img-description](https://avatars.githubusercontent.com/u/53995355?v=4)
