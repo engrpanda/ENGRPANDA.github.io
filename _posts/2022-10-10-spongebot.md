@@ -44,7 +44,7 @@ The Red light is STEADY: CONNECTED
 # layout
 
 
-<a href="https://github.com/engrpanda/Spongebot/tree/main/sponge%20layout">Apk2</a>
+<a href="https://github.com/engrpanda/Spongebot/tree/main/sponge%20layout">Layout</a>
 
 
 
