@@ -6,7 +6,7 @@ tags: [tools, app, qrcode, scanner]
 ---
 
 # QR-Scanner-Maker-plus-Ultra
-
+This is a QR & Barcode scanner which can Scan and Read QR/Barcode even offline. Still QR Maker needs internet to Generate QR.
 
 3 in 1 QR or Barcode Scanner/Reader and Maker
 
